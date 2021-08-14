@@ -39,6 +39,14 @@ var questions = [
   {
     question: "On Which Planet Goku learnt Instant Transmission? (choose from a,b,c,d) \n a. Planet Vegeta \n b.Planet Namek \n c.Planet Earth \n d. Planet Yardrat\n Your Ans : ",
     answer: "d"
+  },
+  {
+    question: "Where is Goku when he transforms into a Super Saiyan for the first time? (choose from a,b,c,d) \n a. Planet Vegeta \n b.Planet Namek \n c.Planet Earth \n d. King Kai's Planet \n Your Ans : ",
+    answer: "b"
+  },
+  {
+    question: "What technique does Goku use to get from one place to another instantly? (choose from a,b,c,d) \n a. The One Second Jump \n b.Instant Transmission  \n c.Super Saiyan Wormhole  \n d. Teleportation Zap \n Your Ans : ",
+    answer: "b"
   }
   
 ];
